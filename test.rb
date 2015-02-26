@@ -1,5 +1,6 @@
 class Test
   def initialize
-    @a = :yay
+    @a = :boo
+    @b = :foo
   end
 end
